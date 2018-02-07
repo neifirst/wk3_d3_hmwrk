@@ -34,6 +34,9 @@ album2.save
 artist1.name = 'Tortured By Turtles'
 artist1.update
 
+album2.title = 'White Chocolate'
+album2.update
+
 
 
 
